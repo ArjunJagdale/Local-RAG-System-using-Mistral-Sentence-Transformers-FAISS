@@ -9,6 +9,13 @@ This project is a **lightweight, fully local Retrieval-Augmented Generation (RAG
 - 💬 Command-line chat interface with contextual answers
 
 ---
+## Demo Video
+
+
+https://github.com/user-attachments/assets/a880a5db-759d-42e4-8dd2-2091877b445d
+
+
+---
 
 ## 📦 Features
 
