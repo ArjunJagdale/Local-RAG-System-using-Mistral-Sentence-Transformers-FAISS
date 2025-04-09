@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+gradio
