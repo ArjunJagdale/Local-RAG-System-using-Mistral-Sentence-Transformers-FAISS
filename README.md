@@ -17,6 +17,19 @@ https://github.com/user-attachments/assets/a880a5db-759d-42e4-8dd2-2091877b445d
 
 ---
 
+## 🔍 Retrieval-Augmented Generation with Mistral LLM
+This project demonstrates how to build a lightweight, offline-capable RAG system using:
+
+- 🧠 A local Mistral 7B LLM (GGUF format)
+
+- 🔎 Context retrieval using FAISS + Sentence Transformers
+
+- 🌐 Optional web URL scraping or local text files
+
+- 🛠 No Hugging Face APIs — 100% free and local
+
+---
+
 ## 📦 Features
 
 - 🔌 No API keys or cloud dependencies – everything runs **offline**
