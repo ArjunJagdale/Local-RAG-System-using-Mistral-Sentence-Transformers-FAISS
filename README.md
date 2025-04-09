@@ -57,6 +57,8 @@ pip install -r requirements.txt
 You can get one from Hugging Face:
 
 - [TheBloke/Mistral-7B-Instruct-v0.1-GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)
+- Files and Versions -> mistral-7b-instruct-v0.1.Q4_K_M.gguf
+- ![image](https://github.com/user-attachments/assets/4a997d7c-b2a5-43cf-b751-a41a1125bdef)
 
 Place it in your preferred folder and copy the path to the `.gguf` file.
 
